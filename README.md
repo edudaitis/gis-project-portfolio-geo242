@@ -1,3 +1,4 @@
+# GEO242: Mapping a Changing World 
 Emily Dudaitis
 
 ## Overview
