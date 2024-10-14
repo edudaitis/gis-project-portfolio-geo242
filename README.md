@@ -2,7 +2,6 @@ Emily Dudaitis
 
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 242 @Miami University
-- Students can build a repository like this as their project portfolio
 
 ## Basic Mapping
 
