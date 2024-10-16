@@ -14,3 +14,7 @@ Emily Dudaitis
 - [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb](https://colab.research.google.com/drive/1uI06zZS4sWYP6_CexYZQzMbnyT3hrUju?usp=drive_link)](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
 - [Georeferencing](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb](https://colab.research.google.com/drive/1uI06zZS4sWYP6_CexYZQzMbnyT3hrUju?usp=drive_link)](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)](https://colab.research.google.com/drive/10SCJ0gypqy79Co7dDiS04aMDlJL9s1z-?usp=sharing)
 ```
+
+## Raster
+
+- [Raster Data Analysis](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb](https://colab.research.google.com/drive/1uI06zZS4sWYP6_CexYZQzMbnyT3hrUju?usp=drive_link)](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)](https://colab.research.google.com/drive/10SCJ0gypqy79Co7dDiS04aMDlJL9s1z-?usp=sharing](https://colab.research.google.com/drive/1-wQgpChLAdYf_LXzDY3ZDBH6_NbBHe_d#scrollTo=bvZyUOmeRCUa)
