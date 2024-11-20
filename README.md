@@ -12,14 +12,14 @@ Emily Dudaitis
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
-- [Georeferencing](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)](https://colab.research.google.com/drive/10SCJ0gypqy79Co7dDiS04aMDlJL9s1z-?usp=sharing)
+- [Georeferencing](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)]
 
 ## Raster Image Analysis
 
-- [Understanding Landsat bands]\(https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)](https://colab.research.google.com/drive/10SCJ0gypqy79Co7dDiS04aMDlJL9s1z-?usp=sharing](https://colab.research.google.com/drive/1-wQgpChLAdYf_LXzDY3ZDBH6_NbBHe_d#scrollTo=bvZyUOmeRCUa)
+- [Understanding Landsat bands]\(https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)]
 
 ## Spatial Analysis
-- [Cholera spread maps](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)]((https://drive.google.com/uc?export=view&id=1SIi0h-oidfyZQtx1vVT3cRIS81odSrXu))
+- [Cholera spread maps](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
 
 ## Web-Based Mapping
 - [ArcGIS Online - Cholera spread](https://miamioh.maps.arcgis.com/apps/mapviewer/index.html?webmap=01d829bc521e4ea09256c2ca4862a2b7)
