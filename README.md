@@ -20,6 +20,7 @@ Emily Dudaitis
 
 ## Spatial Analysis
 - [Cholera spread maps](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
+- [Ohio Population Differences](https://colab.research.google.com/drive/1wm8gng0265jxfmcbZL6d6RK86n-UIQ-2?usp=sharing)
 
 ## Web-Based Mapping
 - [ArcGIS Online - Cholera spread](https://miamioh.maps.arcgis.com/apps/mapviewer/index.html?webmap=01d829bc521e4ea09256c2ca4862a2b7)
