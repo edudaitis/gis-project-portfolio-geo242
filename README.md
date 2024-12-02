@@ -29,7 +29,6 @@ Emily Dudaitis
 - [Ohio Population Differences](https://colab.research.google.com/drive/1wm8gng0265jxfmcbZL6d6RK86n-UIQ-2?usp=sharing)
 - [Cholera spread maps](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
 - [North American Rivers and Basins](https://colab.research.google.com/drive/1IQNRXijBQkcTYD15o7sS1OKaVGHWVD5G?usp=drive_link)
-- [Map the age index based on 2000 census data](https://colab.research.google.com/drive/1-4nEGQeY_QVW0HydfPV3Ct-5iO_EwNlj?usp=drive_link)
 
 ```
 
