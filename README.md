@@ -12,7 +12,7 @@ Emily Dudaitis
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
-- [Georeferencing](https://github.com/edudaitis/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/GEO242_9_9_In_Class_Exercise_Lat_Long_Calc.ipynb)
+- [Georeferencing](https://colab.research.google.com/drive/1uI06zZS4sWYP6_CexYZQzMbnyT3hrUju?usp=sharing)
 
 ## Raster Image Analysis
 
